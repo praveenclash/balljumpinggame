@@ -1,4 +1,4 @@
-## **BALL JUMPING GAME **
+## BALL JUMPING GAME 
 This project is a simple and fun Ball Jumping Game built using React and Vite.
 
 ## 🚀 Features
