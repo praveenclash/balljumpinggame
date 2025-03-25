@@ -213,10 +213,10 @@ function App() {
             )}
 
             <Marquee style={style.Marquee} speed={play ? value.bgRotation : 0} direction={direction}>
-                <img src="/bg.jpg" alt="Moving Background" style={style.bG} />
+                <img src="bg.jpg" alt="Moving Background" style={style.bG} />
             </Marquee>
 
-            <img src="/ball.png" alt="Ball" style={style.ball} />
+            <img src="ball.png" alt="Ball" style={style.ball} />
 
             <FaCircleArrowLeft className="arrow-icon" style={style.leftArrow} onClick={leftFun} />
             <FaCircleArrowRight className="arrow-icon" style={style.rightArrow} onClick={rightFun} />
